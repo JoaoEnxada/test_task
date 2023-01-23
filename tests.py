@@ -1,5 +1,5 @@
 import unittest
-from main import SmartCut
+from smartcut import SmartCut
 
 
 class TestCutter(unittest.TestCase):
